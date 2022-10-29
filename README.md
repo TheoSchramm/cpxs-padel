@@ -1,9 +1,9 @@
-# cpxs-padel
-  repo do projeto padel do grupo cpxs
+# cpxs-padel<br>
+  repo do projeto padel do grupo cpxs<br>
 
-TODO:
-  \ntranscrever todo o código para C#
-  \nconseguir uma câmera pra testar o código
-  \ngravar audio?
-  \n?
-  profit
+TODO:<br>
+  transcrever todo o código para C#<br>
+  onseguir uma câmera pra testar o código<br>
+  gravar audio?<br>
+  ?<br>
+  profit<br>
