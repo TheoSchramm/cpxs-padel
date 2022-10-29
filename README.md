@@ -3,7 +3,7 @@
 
 TODO:<br>
   transcrever todo o código para C#<br>
-  onseguir uma câmera pra testar o código<br>
-  gravar audio?<br>
+  conseguir uma câmera pra testar o código<br>
+  conseguir capturar audio?<br>
   ?<br>
   profit<br>
