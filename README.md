@@ -2,8 +2,8 @@
   repo do projeto padel do grupo cpxs
 
 TODO:
-  transcrever todo o código para C#
-  conseguir uma câmera pra testar o código
-  gravar audio?
-  ?
+  \ntranscrever todo o código para C#
+  \nconseguir uma câmera pra testar o código
+  \ngravar audio?
+  \n?
   profit
