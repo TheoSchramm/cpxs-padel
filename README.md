@@ -1,4 +1,4 @@
-# ReWinder<br>
+# reWinder<br>
   Um programa feito em Python que regularmente captura os últimos 30 segundos da sua webcam, que ao pressionar de um botão transforma esses últimos 30 segundos em um arquivo mp4 para você poder reviver o momento!<br>
 
 # Como utilizar?
